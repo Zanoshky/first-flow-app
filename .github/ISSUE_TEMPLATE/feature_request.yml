@@ -1,0 +1,65 @@
+name: Feature request
+description: An idea for something First Flow could do.
+title: "[idea] "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What you want
+      description: Describe the feature in a few lines.
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why
+      description: What would it help you do? A real example helps.
+    validations:
+      required: true
+  - type: dropdown
+    id: where
+    attributes:
+      label: "Which screen or feature?"
+      options:
+        - "home (length, pace and begin)"
+        - "pose of the day"
+        - "the flow (get ready, hold, switch sides)"
+        - "breath ring"
+        - "done screen"
+        - "reminder invite"
+        - "poses list"
+        - "a pose page"
+        - "science"
+        - "settings"
+        - "look (follow the phone, blush, dusk or black)"
+        - "breath pace"
+        - "get ready time"
+        - "sound (bowls, voice guide, music)"
+        - "daily reminder"
+        - "reminder notification"
+        - "privacy page"
+        - "help links"
+        - "more (add the widget)"
+        - "home screen widget"
+        - "accessibility (talkback, large text)"
+        - "tv: home and side rail"
+        - "tv: the flow and remote keys"
+        - "tv: poses"
+        - "tv: settings sheets"
+        - "tv: qr codes (open on your phone)"
+        - "other"
+    validations:
+      required: true
+  - type: textarea
+    id: media
+    attributes:
+      label: Pictures or links
+      description: A sketch, a screenshot or a link to something similar.
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before you send
+      options:
+        - label: I searched the open issues and this idea is not there yet.
+          required: true

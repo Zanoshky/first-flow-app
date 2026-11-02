@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: User guide
+    url: https://zanoshky.github.io/first-flow-app/
+    about: The flow, the poses, the breath ring, Settings, the widget, Android TV and answers to common questions.
+  - name: firstflow.zanoski.com
+    url: https://firstflow.zanoski.com
+    about: The First Flow website, with the privacy policy and contact details.
