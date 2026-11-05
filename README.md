@@ -21,7 +21,7 @@ This repo is the public home for First Flow users: the user guide, bug reports a
 
 ## Quick start
 
-1. Install First Flow from Google Play. It runs on Android 7 or newer, and on Android TV and Google TV.
+1. Install First Flow from Google Play. It runs on Android 10 or newer, and on Android TV and Google TV.
 2. On Home, pick 5 min, 10 min or the Full flow of 20 poses, and a pace: Steady, Slow or Calm.
 3. Press Begin. Each pose has a short get ready time, then a few slow breaths.
 4. Breathe with the ring: it fills as you breathe in and empties as you breathe out.
