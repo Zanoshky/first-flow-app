@@ -206,7 +206,6 @@ page("guide.html", "Guide", "How to use First Flow: Home, the guided flow, Poses
           <div><dt>Daily reminder</dt><dd>A gentle note each day, and its time.</dd></div>
           <div><dt>Privacy</dt><dd>The promises as red ban chips, the two permissions and why, where your practice is kept, and the privacy policy in full.</dd></div>
           <div><dt>Help</dt><dd>This guide, the report page and the privacy policy.</dd></div>
-          <div><dt>Support the developer</dt><dd>If First Flow helps you, you can support it: Buy me a coffee opens buymeacoffee.com/zanoshky.</dd></div>
           <div><dt>About</dt><dd>The version. Every pose, voice clip and track ships inside the app, so nothing is ever fetched or sent.</dd></div>
         </dl>
       </div>
