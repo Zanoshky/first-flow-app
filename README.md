@@ -7,7 +7,7 @@
 <p align="center">20 gentle beginner yoga poses, guided one breath at a time with singing bowls. Pay once, no ads, works fully offline.</p>
 
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.zanoshky.firstflow"><b>Google Play</b></a> ·
+  <a href="https://play.google.com/store/apps/details?id=com.zanoshky.firstflow&amp;referrer=utm_source%3Dgithub%26utm_medium%3Dguide%26utm_campaign%3Dfirst-flow-2026-11"><b>Google Play</b></a> ·
   <a href="https://firstflow.zanoski.com"><b>firstflow.zanoski.com</b></a> ·
   <a href="https://zanoshky.github.io/first-flow-app/"><b>User guide</b></a> ·
   <a href="https://github.com/Zanoshky/first-flow-app/issues/new/choose"><b>Report a bug</b></a>

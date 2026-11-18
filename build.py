@@ -9,7 +9,7 @@ from pathlib import Path
 
 D = Path(__file__).parent / "docs"
 REPO = "https://github.com/Zanoshky/first-flow-app"
-PLAY = "https://play.google.com/store/apps/details?id=com.zanoshky.firstflow"
+PLAY = "https://play.google.com/store/apps/details?id=com.zanoshky.firstflow&amp;referrer=utm_source%3Dgithub%26utm_medium%3Dguide%26utm_campaign%3Dfirst-flow-2026-11"
 SITE = "https://firstflow.zanoski.com"
 MAIL = "support@zanoski.com"
 NAV = [("index.html", "Home"), ("guide.html", "Guide"), ("faq.html", "Questions"), ("report.html", "Report a bug")]
