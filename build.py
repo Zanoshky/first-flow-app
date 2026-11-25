@@ -186,7 +186,7 @@ page("guide.html", "Guide", "How to use First Flow: Home, the guided flow, Poses
     <div class="with-shot">
       <div class="doc">
         <h2>The widget</h2>
-        <p>The home screen widget shows the pose of the day and begins your flow in one tap. It grows with its size, from a slim bar to the pose large with its Sanskrit name. Add it from More, Add the widget, or touch and hold your home screen, pick Widgets, then First Flow.</p>
+        <p>The home screen widget shows the pose of the day and begins your flow in one tap. It grows with its size, from a slim bar to the pose large with its Sanskrit name. Add it from Settings, Widget, or from More, or touch and hold your home screen, pick Widgets, then First Flow.</p>
 
         <h2>The daily reminder</h2>
         <p>Off until you turn it on, from the done screen or in Settings, Daily reminder. One gentle note a day at the time you choose, and none on days you have already flowed. On Android 13 and newer, Android asks for notifications only after you say yes.</p>
@@ -197,7 +197,8 @@ page("guide.html", "Guide", "How to use First Flow: Home, the guided flow, Poses
     <div class="with-shot">
       <div class="doc">
         <h2>Settings</h2>
-        <p>Settings is the last item in the bar: cards of rows, each saying what is set now. A row opens its own small page; Back takes you to the hub where you left it.</p>
+        <p>Settings is the last item in the bar: cards of rows, each saying what is set now. A row opens its own small page; Back takes you to the hub where you left it. Privacy, Help and About sit at the end.</p>
+        <p><strong>New in 1.12:</strong> Settings is tidier. About and the widget have pages of their own, and Privacy, Help and About sit at the end.</p>
         <dl class="rows plate">
           <div><dt>Look</dt><dd>Follow the phone (Blush by day, Dusk at night), Blush (warm white paper with deep rose), Dusk (deep plum, nearly black, with rose), or Black (true black for OLED, with rose).</dd></div>
           <div><dt>Language</dt><dd>Pick the language of First Flow, or follow the phone. The page lists every language the app has words for, each named in itself. Pose names and cues follow your pick, and the voice guide stays in English.</dd></div>
@@ -205,9 +206,10 @@ page("guide.html", "Guide", "How to use First Flow: Home, the guided flow, Poses
           <div><dt>Get ready time</dt><dd>5, 7 or 10 seconds before each pose to find your shape.</dd></div>
           <div><dt>Sound</dt><dd>Singing bowls, a soft ring at each new step; the Voice guide, a warm voice that reads each pose and its cues; and under the flow Calm music, a Singing bowl bath, or Silence.</dd></div>
           <div><dt>Daily reminder</dt><dd>A gentle note each day, and its time.</dd></div>
+          <div><dt>Widget</dt><dd>Opens its own page, where you add the widget to your home screen.</dd></div>
           <div><dt>Privacy</dt><dd>The promises as red ban chips, the two permissions and why, where your practice is kept, and the privacy policy in full.</dd></div>
           <div><dt>Help</dt><dd>This guide, the report page and the privacy policy.</dd></div>
-          <div><dt>About</dt><dd>The version. Every pose, voice clip and track ships inside the app, so nothing is ever fetched or sent.</dd></div>
+          <div><dt>About</dt><dd>Opens its own page, last in the list: the version. Every pose, voice clip and track ships inside the app, so nothing is ever fetched or sent.</dd></div>
         </dl>
       </div>
       {shot("settings.jpg", SETTINGS_ALT, "Settings", "Look, practice, privacy and help.")}
@@ -275,7 +277,7 @@ page("faq.html", "Questions", "Answers to common questions about First Flow, and
     <p>Not there, on purpose: a TV shows almost no notifications. The widget and More are not on a TV either.</p>
 
     <h2>How do I add the widget?</h2>
-    <p>Tap the three dots at the top, then Add the widget. Or touch and hold your home screen, pick Widgets, then First Flow. Some home screens do not hold widgets.</p>
+    <p>Settings, Widget, Add the widget, or the three dots at the top, then Add the widget. Or touch and hold your home screen, pick Widgets, then First Flow. Some home screens do not hold widgets.</p>
 
     <h2>Does it need the internet?</h2>
     <p>No. It works fully offline and cannot connect at all: every pose, voice clip and track ships inside the app.</p>
