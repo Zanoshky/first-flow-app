@@ -198,6 +198,7 @@ page("guide.html", "Guide", "How to use First Flow: Home, the guided flow, Poses
       <div class="doc">
         <h2>Settings</h2>
         <p>Settings is the last item in the bar: cards of rows, each saying what is set now. A row opens its own small page; Back takes you to the hub where you left it. Privacy, Help and About sit at the end.</p>
+        <p><strong>New in 1.13:</strong> Page titles are smaller, so more of each page fits on the screen.</p>
         <p><strong>New in 1.12:</strong> Settings is tidier. About and the widget have pages of their own, and Privacy, Help and About sit at the end.</p>
         <dl class="rows plate">
           <div><dt>Look</dt><dd>Follow the phone (Blush by day, Dusk at night), Blush (warm white paper with deep rose), Dusk (deep plum, nearly black, with rose), or Black (true black for OLED, with rose).</dd></div>
